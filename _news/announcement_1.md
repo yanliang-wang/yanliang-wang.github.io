@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-2-9  
 inline: true
 ---
 
-A simple inline announcement.
+I released my [graduation design project](https://github.com/HITSZ-NRSL/lidar_camera_calibrator), which is a convenient tool to calibrate the extrinsic paremeters between LiDAR and camera.
