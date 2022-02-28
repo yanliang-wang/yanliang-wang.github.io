@@ -26,7 +26,9 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 ---
 <table>
   <td  width="40%" style="vertical-align:middle;">
-    <img height=200 width=320 src="assets/img/project/reasearch_calibration.assets/image-20220211130712041.png">
+    <a title="Click for details" href="https://yanliang-wang.github.io/blog/2022/%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E5%92%8C%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%A4%96%E5%8F%82%E6%A0%87%E5%AE%9A/">
+      <img height=200 width=320 src="assets/img/project/reasearch_calibration.assets/image-20220211130712041.png">
+    </a>
     <br/>
     [<a href="https://github.com/HITSZ-NRSL/lidar_camera_calibrator">code</a>]
     [<a href="https://youtu.be/uew143NcVQw">video</a>]
@@ -39,7 +41,6 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
   </td>
 </table> 
 
-
 <br/>
 ## Funny projects
 
@@ -47,8 +48,11 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 
 <table>
   <td  width="40%" style="vertical-align:middle;">
+    <a title="Click for details" href="https://yanliang-wang.github.io/projects/path_planning_api/">
     <img height=200 width=320 src="assets/img/project/path_planning_api/path_planning_api.png">
+    </a>
     <br/>
+    
     [<a href="https://github.com/yanliang-wang/path_api_display">code</a>]
     [<a href="https://youtu.be/Dpgqhs1Kx4U">video</a>]
     <!-- [<a href="https://yanliang-wang.github.io/blog/2022/%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E5%92%8C%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%A4%96%E5%8F%82%E6%A0%87%E5%AE%9A/">blog</a>] -->
@@ -59,4 +63,5 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
       Call the urban road path planning provided by AutoNavi Map API, and display it through RVIZ. The obtained path may be used as a coarsely global path when navigating urban roads.
   </td>
 </table> 
----
+
+<br/>
