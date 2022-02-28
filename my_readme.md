@@ -31,3 +31,8 @@ p jekyll serve --config _config_dev.yml --trace
 ./bin/deploy
 ```
 
+## 3. Other options
+
+- 修改字体
+
+  https://github.com/alshedivat/al-folio/discussions/265
