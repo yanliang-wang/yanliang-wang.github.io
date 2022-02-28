@@ -36,3 +36,15 @@ p jekyll serve --config _config_dev.yml --trace
 - 修改字体
 
   https://github.com/alshedivat/al-folio/discussions/265
+
+- 讨论区
+
+  https://github.com/alshedivat/al-folio/discussions
+
+参考模板：
+
+https://jianhengliu.github.io/
+
+https://epsavlc.github.io/about.html
+
+https://mrchannon.github.io/about.html
