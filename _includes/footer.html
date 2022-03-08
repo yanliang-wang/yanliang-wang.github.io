@@ -12,6 +12,9 @@
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {%- endif %}
+        {%- if site.vistors_count_enable -%}
+        <a align='right'><img src="{{ site.vistors_count_link }}" alt="visitor badge"></a>
+        {%- endif -%}
       </div>
     </footer>
     {%- else -%}
