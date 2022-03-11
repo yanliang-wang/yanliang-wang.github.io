@@ -26,6 +26,23 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 ---
 <table>
   <td  width="40%" style="vertical-align:middle;">
+    <!-- <a title="Click for details" href="https://yanliang-wang.github.io/projects/reasearch_fast_lio_lc/"> -->
+      <img height=200 width=320 src="assets/img/project/autonomous_exploration/ae_demo.png">
+    <!-- </a> -->
+    <br/>
+    <!-- [<a href="https://github.com/yanliang-wang/FAST_LIO_LC">code</a>]
+    [<a href="https://youtu.be/W5HYYPYBrn8">video</a>] -->
+  </td>
+  <td width="55%" style="vertical-align:top;">
+      <span class="font-weight-bold"><big><big>Autonomous Exploration</big></big><br/><br/></span>
+      <span class="font-weight-bold"><big>2021.9 ~ now</big><br/></span>
+      This project is ongoing!
+  </td>
+</table> 
+
+---
+<table>
+  <td  width="40%" style="vertical-align:middle;">
     <a title="Click for details" href="https://yanliang-wang.github.io/projects/reasearch_fast_lio_lc/">
       <img height=200 width=320 src="assets/img/project/fast_lio_lc/image-20220311154036391.png">
     </a>
