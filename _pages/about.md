@@ -35,7 +35,9 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
   </td>
   <td width="55%" style="vertical-align:top;">
       <span class="font-weight-bold"><big><big>Autonomous Exploration</big></big><br/><br/></span>
-      <span class="font-weight-bold"><big>2021.9 ~ now</big><br/></span>
+      <!-- <span class="font-weight-bold"> -->
+        <big>2021.9 ~ now</big><br/>
+      <!-- </span> -->
       This project is ongoing!
   </td>
 </table> 
@@ -52,7 +54,9 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
   </td>
   <td width="55%" style="vertical-align:top;">
       <span class="font-weight-bold"><big><big>FAST LIO with a Loop Closure Module</big></big><br/><br/></span>
-      <span class="font-weight-bold"><big>2021.7 ~ 2021.9</big><br/></span>
+      <!-- <span class="font-weight-bold"> -->
+        <big>2021.7 ~ 2021.9</big><br/>
+      <!-- </span> -->
       FAST_LIO_LC implements the pose graph optimization with a radius-search-based loop closure on the basis of FAST LIO, which doesn't have a loop closure module to eliminate the accumulated drift.
   </td>
 </table> 
@@ -70,7 +74,9 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
   </td>
   <td width="55%" style="vertical-align:top;">
       <span class="font-weight-bold"><big><big>Lidar Camera Calibrator</big></big><br/><br/></span>
-      <span class="font-weight-bold"><big>2019.11 ~ 2020.6</big><br/></span>
+      <!-- <span class="font-weight-bold"> -->
+      <big>2019.11 ~ 2020.6</big><br/>
+      <!-- </span> -->
       lidar_camera_calibrator is a semi-automatic, high-precision, feature-based camera and LIDAR extrinsic calibration tool, which can semi-automatically calibrate high-precision extrinsic parameters and provide an interactive Qt interface with less manual intervention.
   </td>
 </table> 
@@ -93,7 +99,9 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
   </td>
   <td width="55%" style="vertical-align:top;">
       <span class="font-weight-bold"><big><big>Path Planning API of Amap</big></big><br/><br/></span>
-      <span class="font-weight-bold"><big>2018</big><br/></span>
+      <!-- <span class="font-weight-bold"> -->
+        <big>2018</big><br/>
+      <!-- </span> -->
       Call the urban road path planning provided by AutoNavi Map API, and display it through RVIZ. The obtained path may be used as a coarsely global path when navigating urban roads.
   </td>
 </table> 
