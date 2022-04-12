@@ -27,7 +27,7 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 <table>
   <td  width="40%" style="vertical-align:middle;">
     <!-- <a title="Click for details" href="https://yanliang-wang.github.io/projects/reasearch_fast_lio_lc/"> -->
-      <img height=200 width=320 src="assets/img/project/autonomous_exploration/ae_demo.png">
+      <img height=200 width=320 src="assets/img/project/autonomous_exploration/ae_demo2.png">
     <!-- </a> -->
     <br/>
     <!-- [<a href="https://github.com/yanliang-wang/FAST_LIO_LC">code</a>]
@@ -46,7 +46,7 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 <table>
   <td  width="40%" style="vertical-align:middle;">
     <a title="Click for details" href="https://yanliang-wang.github.io/projects/reasearch_fast_lio_lc/">
-      <img height=200 width=320 src="assets/img/project/fast_lio_lc/image-20220311154036391.png">
+      <img height=200 width=320 src="assets/img/project/fast_lio_lc/fast_lio_lc_result.png">
     </a>
     <br/>
     [<a href="https://github.com/yanliang-wang/FAST_LIO_LC">code</a>]
@@ -65,7 +65,7 @@ I am Interested in Self-driving, SLAM, and motion planning, and my current resea
 <table>
   <td  width="40%" style="vertical-align:middle;">
     <a title="Click for details" href="https://yanliang-wang.github.io/blog/2022/%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E5%92%8C%E7%9B%B8%E6%9C%BA%E7%9A%84%E5%A4%96%E5%8F%82%E6%A0%87%E5%AE%9A/">
-      <img height=200 width=320 src="assets/img/project/reasearch_calibration.assets/image-20220211130712041.png">
+      <img height=160 width=320 src="assets/img/project/reasearch_calibration.assets/calib_demo.png">
     </a>
     <br/>
     [<a href="https://github.com/HITSZ-NRSL/lidar_camera_calibrator">code</a>]
